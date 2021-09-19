@@ -46,8 +46,6 @@ Here due to my system compatibility is very low. So I havent done hyperparameter
 # Model Deployment
 * The model is deployed using Flask at Heroku server
 
-# If you like this project please do give a star. I am also giving my LinkedIn profile. If you want we can connect there too
-[www.linkedin.com/in/kashan-ahmed-khan-878343194](www.linkedin.com/in/kashan-ahmed-khan-878343194)
 
 
 
