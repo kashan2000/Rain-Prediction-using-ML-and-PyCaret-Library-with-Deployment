@@ -5,7 +5,8 @@ Out of these models catboost performed very well giving an AUC score around and 
 Here due to my system compatibility is very low. So I havent done hyperparameter tuning. But it is highly recommended to do it if possible.
 
 
-# Testing values
+# Main Page of the web application
+
 
 # Rainy Day: 
 ![Predictor Values for Rainy Day](githubimgs/predictor.png)
