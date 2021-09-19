@@ -1,8 +1,11 @@
 # Rain-Prediction
 A project on predicting whether it will rain tomorrow or not by using the Rainfall in Australia dataset
-This project is tested over lot of ml models like catboost, xgboost, random forest, support vector classifier, etc..
-Out of these models catboost performed very well giving an AUC score around and ROC score of 89 far better than others.
-Here due to my system compatibility is very low. So I havent done hyperparameter tuning. But it is highly recommended to do it if possible.
+This project is tested over lot of ml models like catboost, xgboost, random forest, support vector classifier.
+I also made this project with the help of PyCaret Library which is an Auto MAchine Learning Technique
+I have not done much Auto Tuninng because I wanted to demonstrate how we can do this project with the help of Auto Machine Learning i.e. PyCaret Librayy.
+You can do the Hypertuning , it is highly recommended and also use other functions of PyCaret library.
+It's pretty Interesting
+
 
 
 # Main Page of the web application
